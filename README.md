@@ -1,7 +1,7 @@
 👋 Hola, soy **David Avila**
 Analista de Transporte Terrestre especializado en análisis de datos para operaciones logísticas. Trabajo con Python y Power BI para diseñar dashboards, KPIs y reportes que ayudan a tomar mejores decisiones en tiempo real.
 
-Trabajo colaborando en un Red de Distribución y actualmente estoy dando el siguiente paso: construir soluciones de software logístico que automaticen tareas repetitivas, mejoren el control operativo y hagan más eficientes las operaciones en las que colaboro, utilizando también JavaScript, HTML y CSS para crear interfaces y herramientas prácticas para el día a día.
+Trabajo colaborando en un Red de Distribución y actualmente estoy dando el siguiente paso: construir mis primeras soluciones de software logístico que automaticen tareas repetitivas, mejoren el control operativo y hagan más eficientes las operaciones en las que colaboro, utilizando también JavaScript, HTML y CSS para crear interfaces y herramientas prácticas para el día a día.
 ________________________________________
 🔎 Lo que hago
 *	Diseño y analizo indicadores clave (KPIs) para transporte terrestre y operaciones logísticas.
