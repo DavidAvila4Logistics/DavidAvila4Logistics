@@ -1,24 +1,29 @@
-👋 Hola, soy **David Avila**
-Analista de Transporte Terrestre especializado en análisis de datos para operaciones logísticas. Trabajo con Python y Power BI para diseñar dashboards, KPIs y reportes que ayudan a tomar mejores decisiones en tiempo real.
+### 👋 Hola, soy David Avila
 
-**Trabajo colaborando en un Red de Distribución y actualmente estoy dando el siguiente paso: construir mis primeras soluciones de software logístico que automaticen tareas repetitivas, mejoren el control operativo y hagan más eficientes las operaciones en las que colaboro, utilizando también JavaScript, HTML y CSS para crear interfaces y herramientas prácticas para el día a día.**
-________________________________________
-**🔎 Lo que hago**
-*	Diseño y analizo indicadores clave (KPIs) para transporte terrestre y operaciones logísticas.
-*	Desarrollo dashboards en Power BI para visualizar desempeño, tiempos y servicio.
-*	Uso Python para limpieza de datos, análisis, automatización de reportes y creación de pequeños scripts de soporte.
-*	Construyo mis primeras herramientas y prototipos web con JavaScript, HTML y CSS para apoyar procesos operativos y de análisis.
-________________________________________
-**🛠️ Tecnologías y herramientas**
-*	Datos: Python (pandas, etc.), Power BI, Excel avanzado.
-*	Visualización: dashboards interactivos y reportes ejecutivos.
-*	Desarrollo web: JavaScript, HTML, CSS para aplicaciones y herramientas enfocadas en logística y automatización de operaciones.
-*	Control de versiones: Git y GitHub para documentar, versionar y compartir mi trabajo.
-________________________________________
-**🎯 Qué vas a encontrar en este perfil**
-*	Proyectos de análisis de datos orientados a transporte terrestre y logística (dashboards, KPIs, notebooks de análisis).(Pendiente de carga)
-*	Scripts y pequeñas herramientas en Python para automatizar tareas operativas y de reporting.(Pendiente de carga)
-*	Aplicaciones y prototipos web con JavaScript, HTML y CSS que llevan estos análisis y automatizaciones a herramientas más cómodas para el usuario.(Primeros proyectos subidos - en proceso)
+Diseño soluciones de datos para operaciones logísticas. Trabajo con
+**Python** y **Power BI** para construir dashboards, KPIs y reportes
+que ayudan a tomar mejores decisiones en tiempo real dentro de una
+red de distribución.
+
+Hoy estoy llevando ese trabajo un paso más allá: desarrollo mis
+primeras herramientas de software logístico para automatizar tareas
+repetitivas, reforzar el control operativo y hacer más eficientes las
+operaciones en las que colaboro.
+
+---
+
+#### 🛠️ Stack
+
+- **Datos / ETL:** Python (Polars, Pandas)
+- **BI:** Power BI Pro/Premium · DAX
+- **Automatización:** Automation 360 (RPA) · Power Automate
+- **Desarrollo web:** JavaScript · HTML · CSS
+- **Almacenamiento y colaboración:** SharePoint
+
+#### 🚀 En qué estoy ahora
+
+- Construyendo herramientas web internas para el día a día operativo
+- Migrando procesos manuales hacia pipelines automatizados
 ________________________________________
 **📫 Contacto**
 *	Email: david.R.avila_work@outlook.com
